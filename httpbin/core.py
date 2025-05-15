@@ -3,7 +3,7 @@
 """
 httpbin.core
 ~~~~~~~~~~~~
-just test
+just test2
 This module provides the core HttpBin experience.
 """
 
